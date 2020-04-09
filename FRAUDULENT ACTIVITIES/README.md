@@ -18,7 +18,7 @@ Voici précisément ce que vous devez faire :
 
 1. Pour chacun des utilisateurs, déterminez le pays d'origine depuis son adresse IP
 
-2. Construisez un modèle qui permette de prédire si l'activité est frauduleuse ou non. Expliquez aussi vos choix / hypothèses en termes d'optimisation de faux-positifs et faux-négatifs
+2. Construisez un modèle qui permette de prédire si l'activité est frauduleuse ou non.
 
 3. Votre patron aimerait comprendre votre modèle car il est inquiet d'utiliser un modèle _black box_. Comment l'expliqueriez vous d'un point utilisateur, et non pas mathématique. Par exemple, quels sont les utilisateurs qui peuvent être classés comme _risqués_ ?
 
