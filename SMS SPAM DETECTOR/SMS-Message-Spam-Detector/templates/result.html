@@ -1,0 +1,14 @@
+{% extends "layout.html" %}
+{% block content %}
+
+<div class="result-container">
+	<h4"><strong><em>Results for Comment</em></strong></h4>
+	{% if prediction == 1%}
+	<h2 style=" color:Red">Spam</h2>
+	{% elif prediction == 0%}
+	<h2 style=" color:Green">Not a Spam (It is a Ham)</h2>
+	{% endif %}
+
+</div>
+
+{% endblock %}
