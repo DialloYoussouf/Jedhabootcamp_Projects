@@ -1,4 +1,4 @@
-### Lien pour visualiser le code avec les graphiques de la section Data Viz au lieu des tables : https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5318457846253405/2476998201247148/5956558727153465/latest.html
+### Lien pour visualiser le code sur databricks avec les graphiques dans la section Data Viz : https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5318457846253405/2476998201247148/5956558727153465/latest.html
 
 
 ## Projet Big Data
