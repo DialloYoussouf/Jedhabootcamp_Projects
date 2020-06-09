@@ -1,0 +1,38 @@
+.flex-container {
+  background-color: #008B8B;
+  /* nécessaire pour créer une flexbox */
+  display: flex;
+  justify-content: center;
+  /* disposition des éléments enfant dans l'autre direction */
+  align-items: center;
+}
+
+
+header {
+  font-family: fantasy;
+  font-size: 40pt;
+}
+body {
+background-color: #008B8B;
+font:15px/1.5 Arial, Helvetica,sans-serif;
+padding: 0px
+
+
+}
+
+h1 {
+  font-family: fantasy;
+  font-size: 40pt;
+}
+
+
+
+h2 {
+  font-family: cursive;
+  font-size: 40pt;
+}
+
+h3 {
+  font-family: inherit;
+  font-size: 40pt;
+}
