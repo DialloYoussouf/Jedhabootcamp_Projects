@@ -4,7 +4,7 @@
 
 
 ## Veuillez suivre les étapes ci-dessous afin d'utiiser le chatbot sur un pc en local
-    -Si vous n'avez pas Anaconda Navigator installé sur votre machine, [voici le lien de téléchargement](https://docs.anaconda.com/anaconda/install/) 
+    -Si vous n'avez pas Anaconda Navigator installé sur votre machine, (voici le lien de téléchargement)[https://docs.anaconda.com/anaconda/install/] 
 
 ### Télécherger tout le dossier Chatbot sur votre machine en local
 
