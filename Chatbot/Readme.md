@@ -1,5 +1,5 @@
 # Chatbot
-    -Chatbot pour répondre aux questions fréquemment posées (FAQ) sur le COVID-1. Source de données (OMS)
+    -Chatbot pour répondre aux questions fréquemment posées (FAQ) sur le COVID-19. Source de données (OMS)
 
 
 
@@ -25,7 +25,7 @@
    **python final_chatbot.py**
 
 ### Le Chatbot est prêt
-   Vous pouvez lui posez des questions sur le covid-19
+    Vous pouvez lui posez des questions sur le covid-19
 
 
 ### Tapez quit pour fermer le chatbot
