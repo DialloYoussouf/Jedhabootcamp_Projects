@@ -9,20 +9,21 @@
 ### Télécherger tout le dossier Chatbot sur votre machine en local
 
 ### Ouvrir une CLI (la console d'anaconda a été utilisée pour ce projet)
-   Se déplacer dans le dossier Chatbot téléchargé précédemment 
+    Se déplacer dans le dossier Chatbot téléchargé précédemment 
 
 ### Créer un environnement virtuel et installer python=3.7 numpy=1.16.1
-   Nous pouvons effectuer cela grâce au script: **conda create -n env python=3.7 numpy=1.16.1**
-    - **env** étant le nom de l'environnement crée 
+    **conda create -n env python=3.7 numpy=1.16.1**
+    
+    **env** étant le nom de l'environnement crée 
 
 ### Activer cet environnement virtuel
-   **conda activate env**
+    **conda activate env**
 
 ### Installer les modules contenus dans le requirements.txt
-   **pip install -r requirements.text dans cet environnement**
+    **pip install -r requirements.text**
 
 ### Pour démarrer le chabot
-   **python final_chatbot.py**
+    **python final_chatbot.py**
 
 ### Le Chatbot est prêt
     Vous pouvez lui posez des questions sur le covid-19
