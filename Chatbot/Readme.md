@@ -11,10 +11,10 @@
 ### Ouvrir une CLI (la console d'anaconda a été utilisée pour ce projet)
     Se déplacer dans le dossier Chatbot téléchargé précédemment 
 
-### Créer un environnement virtuel *env* et installer python=3.7 numpy=1.16.1
+### Créer un environnement virtuel *env* et y installer python=3.7 numpy=1.16.1
     conda create -n env python=3.7 numpy=1.16.1
     
-    *env* étant le nom de l'environnement crée 
+   *env* étant le nom de l'environnement crée 
 
 ### Activer cet environnement virtuel
     conda activate env
