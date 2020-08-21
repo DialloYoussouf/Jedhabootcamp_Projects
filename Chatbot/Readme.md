@@ -9,7 +9,7 @@
 ### Télécherger tout le dossier Chatbot sur votre machine en local
 
 ### Ouvrir une CLI (la console d'anaconda a été utilisée pour ce projet)
-   Se déplacer dans le dossier Chatbot télécharger précédemment 
+   Se déplacer dans le dossier Chatbot téléchargé précédemment 
 
 ### Créer un environnement virtuel et installer python=3.7 numpy=1.16.1
    Nous pouvons effectuer cela grâce au script: **conda create -n env python=3.7 numpy=1.16.1**
