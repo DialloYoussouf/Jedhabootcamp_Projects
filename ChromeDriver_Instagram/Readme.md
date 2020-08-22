@@ -4,9 +4,9 @@
 ### Connecteur InstagramBot pour:
     Aller sur le site web d'Instagram  et de s'authentifier avec les identifiants et mot de passe fournis en argument.
 
-    Aller sur le profil des utilisateurs et hashtag, et de les Follow si l'argument Follow_hashtag ou Follow_Follow est True.
+    Aller sur le profil des utilisateurs et hashtag, et de les Follow (option par défaut).
 
-    Parcourir les posts d'un utilisateur et télécharger les commentaires associés à chaque post.
+    Parcourir, télécharger les posts & commentaires associés pour un utilisateur donné.
     
     Parcourir et Liker les posts d'un utilisateur.
 
