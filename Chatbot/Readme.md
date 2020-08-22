@@ -32,5 +32,5 @@
    Il peut cependant, répondre aux salutions, remerciement et au revoir. 
 
 
-### Tapez quit pour fermer le chatbot
+### Tapez *quit* pour fermer le chatbot
 
