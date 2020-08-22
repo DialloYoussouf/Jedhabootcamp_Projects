@@ -1,5 +1,5 @@
 # Chatbot
-    -Chatbot pour répondre aux questions fréquemment posées (FAQ) sur le COVID-19. Source de données (OMS)
+    -Chatbot pour répondre aux questions fréquemment posées (FAQ) sur le COVID-19. Source de données [OMS](https://www.who.int/fr/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-coronaviruses)
 
 
 
@@ -26,7 +26,10 @@
     python final_chatbot.py
 
 ### Le Chatbot est prêt
-    Vous pouvez lui posez des questions sur le covid-19
+    Vous pouvez lui posez des questions sur le covid-19,  
+    [Voici des exemples de questions que vous pouvez poser au bot](https://www.who.int/fr/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-coronaviruses)
+    Pour le moment, le bot est entrainé à ne répondre qu'à ces questions ci-dessus, 
+    Il peut cependant, répond aux salutions, remerciement et au revoir. 
 
 
 ### Tapez quit pour fermer le chatbot
