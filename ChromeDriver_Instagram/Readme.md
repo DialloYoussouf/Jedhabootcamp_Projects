@@ -1,12 +1,21 @@
-### Prérequis: installer Chromedriver et l'ajouter au path de votre système.  
+### Prérequis: 
+   Télécharger [Chromedriver](https://chromedriver.chromium.org/downloads) et l'ajouter au path de votre système.  
 
-### Connecteur capable de se connecter à Instagram avec les identifiants et mot de passe.
+### Connecteur InstagramBot:
+    Aller sur le site web d'Instagram  et de s'authentifier avec les identifiants et mot de passe fournis en argument.
 
-### Aller sur le profil des utilisateurs et hashtag, et de les Follow si l'argument Follow_hashtag ou Follow_Follow est True.
+    Aller sur le profil des utilisateurs et hashtag, et de les Follow si l'argument Follow_hashtag ou Follow_Follow est True.
 
-### Il permet aussi de parcourir leur photos/posts, les télécharger (en local) ainsi que les commentaires associées et de liker toutes les photos si l'argument Like est True.
+    Parcourir les posts d'un utilisateur et télécharger les commentaires associées à chaque post.
+    
+    Parcourir et Liker les posts d'un utilisateur.
 
-### Ces données sont par la suite stockées sur une base de données mongoDB dans 3 collections différentes grâce au module pymongo.
+### Utilisation du module pymongo afin de stocker ces données (posts + dates + commentaires) sur une base de données mongoDB dans 3 collections différentes:
+    Une première collection pour stocker les dates des posts
+    Une seconde collection regroupant les urls menant à l'image de chaque post
+    Une troisième collection rassemblant les commentaires pour chaque post 
+    
+   Les 3 collections étant reliées.
 
 ### Un accès utiisateur (droit de lecture) provisoire à cette base de donnée est crée afin de afin de récupérer les données.
 
