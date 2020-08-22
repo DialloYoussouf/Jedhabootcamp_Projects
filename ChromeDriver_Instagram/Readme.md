@@ -1,12 +1,12 @@
 ### Prérequis: 
    Télécharger [Chromedriver](https://chromedriver.chromium.org/downloads) et l'ajouter au path de votre système.  
 
-### Connecteur InstagramBot:
+### Connecteur InstagramBot pour:
     Aller sur le site web d'Instagram  et de s'authentifier avec les identifiants et mot de passe fournis en argument.
 
     Aller sur le profil des utilisateurs et hashtag, et de les Follow si l'argument Follow_hashtag ou Follow_Follow est True.
 
-    Parcourir les posts d'un utilisateur et télécharger les commentaires associées à chaque post.
+    Parcourir les posts d'un utilisateur et télécharger les commentaires associés à chaque post.
     
     Parcourir et Liker les posts d'un utilisateur.
 
