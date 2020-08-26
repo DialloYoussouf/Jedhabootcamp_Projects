@@ -3,6 +3,7 @@
 
 ## Deux manières d'utiliser le chatbot:
 ### Voici le lien vers la version notebook du chatboot : [Google colab](https://github.com/DialloYoussouf/Jedhabootcamp_Projects/blob/master/Chatbot/Final_Chatbot.ipynb)
+      Il faudra juste télécharger le fichier intents.json (contenant les questions/réponses)  et l'uploader sur google colab
 
 ### Veuillez suivre les étapes ci-dessous afin d'utiliser le chatbot sur un pc en local (seconde méthode)
    Si vous n'avez pas Anaconda Navigator installé sur votre machine, [voici le lien de téléchargement](https://docs.anaconda.com/anaconda/install/) 
