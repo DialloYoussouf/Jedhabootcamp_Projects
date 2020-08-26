@@ -1,7 +1,7 @@
 # Chatbot
    Chatbot pour répondre aux questions fréquemment posées (FAQ) sur le COVID-19. Source de données [OMS](https://www.who.int/fr/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-coronaviruses)
 
-
+## Voici le lien vers la version notebook du chatboot : [Google colab](https://github.com/DialloYoussouf/Jedhabootcamp_Projects/blob/master/Chatbot/Final_Chatbot.ipynb)
 
 ## Veuillez suivre les étapes ci-dessous afin d'utiliser le chatbot sur un pc en local
    Si vous n'avez pas Anaconda Navigator installé sur votre machine, [voici le lien de téléchargement](https://docs.anaconda.com/anaconda/install/) 
