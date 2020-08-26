@@ -194,6 +194,8 @@ def response(sentence, show_details=False):
                     return print(random.choice(i['responses']))
 
             results.pop(0)
+    else:
+        print("Désolé je n'ai pas compris la question.")
 
 
 def chat():
@@ -203,7 +205,7 @@ def chat():
         if inp.lower() == "quit":
             break
         else:
-          #print("tag, taux de confiance :", classify(inp))
+          print(classify(inp))
           response(inp)
 
 
