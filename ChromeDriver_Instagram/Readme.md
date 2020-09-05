@@ -1,7 +1,7 @@
 ### Prérequis: 
    Télécharger [Chromedriver](https://chromedriver.chromium.org/downloads) et l'ajouter au path de votre système.  
 
-### Connecteur InstagramBot pour:
+### Connecteur InstagramBot pour :
     Aller sur le site web d'Instagram  et de s'authentifier avec les identifiants et mot de passe fournis en argument.
 
     Aller sur le profil des utilisateurs et hashtag, et de les Follow (option par défaut).
@@ -17,7 +17,7 @@
     
    Les 3 collections étant reliées.
 
-### Un accès utiisateur (droit de lecture) provisoire à cette base de donnée est crée afin de afin de récupérer les données.
+### Un accès utiisateur (droit de lecture) provisoire à cette base de donnée est crée également.
 
 ### Vous trouverez plus de detail dans le notebook dans lequel, j’ai fait une documentation sur l’utilisation du connecteur.
 
