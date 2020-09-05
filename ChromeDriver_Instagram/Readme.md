@@ -4,7 +4,7 @@
 ### Pour utiliser le Connecteur InstagramBot :
    Télécharger en local [le dossier ChromeDriver_Instagram](https://github.com/DialloYoussouf/Jedhabootcamp_Projects/edit/master/ChromeDriver_Instagram/)
    
-   Ouvrir le fichier config.py (avec un editeur de texte par exemple) et remplacer 'your_instagram_username' et 'your_instagram_password' par vos identifiants instagram respectivement puis enregistrer
+   Ouvrir le fichier [config.py](https://github.com/DialloYoussouf/Jedhabootcamp_Projects/blob/master/ChromeDriver_Instagram/config.py) (avec un editeur de texte par exemple) et remplacer 'your_instagram_username' et 'your_instagram_password' par vos identifiants instagram respectivement puis enregistrer
     
       username = 'your_instagram_username'
       password = 'your_instagram_password'
