@@ -10,12 +10,21 @@
     
     Parcourir et Liker les posts d'un utilisateur.
 
-### Utilisation du module pymongo afin de stocker ces données (posts + dates + commentaires) sur une base de données mongoDB dans 3 collections différentes:
+#### Utilisation du module pymongo afin de stocker ces données (posts + dates + commentaires) sur une base de données mongoDB dans 3 collections différentes:
     Une première collection pour stocker les dates des posts
     Une seconde collection regroupant les urls menant à l'image de chaque post
     Une troisième collection rassemblant les commentaires pour chaque post 
     
    Les 3 collections étant reliées.
+   
+### Pour utiliser le Connecteur InstagramBot :
+   Télécharger en local [le dossier ChromeDriver_Instagram](https://github.com/DialloYoussouf/Jedhabootcamp_Projects/edit/master/ChromeDriver_Instagram/)
+   Se déplacer dans le dossier ChromeDriver_Instagram grâce à la console
+      Taper dans la console: python InstagramBot.py
+      Taper dans la console: python config.py
+   Ensuite vous pouvez maintenant ouvrir le [ChromeDriver_Instagram.ipynb](https://github.com/DialloYoussouf/Jedhabootcamp_Projects/blob/master/ChromeDriver_Instagram/ChromeDriver_Instagram.ipynb) 
+   Amusez vous bien!
+   
 
 ### Un accès utiisateur (droit de lecture) provisoire à cette base de donnée est crée également.
 
