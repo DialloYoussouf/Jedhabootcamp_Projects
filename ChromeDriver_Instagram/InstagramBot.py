@@ -1,4 +1,5 @@
 import os
+import glob
 import requests
 import selenium
 from selenium import webdriver
@@ -318,9 +319,14 @@ class InstagramBot:
         
         try:
             os.mkdir('Image')
-        except FileExistsErrors:
-            print("le dossier Image existe déjà, veuillez le supprimer au préalable avant d'appeler cette method!")
-            pass
+        except FileExistsError:
+            print("Le dossier Image existe déjà, suppression de son contenu...")
+            files = glob.glob('Image/*')
+            for f in files:
+                os.remove(f)
+            print("...contenu supprimé!")
+            print()
+            print("Téléchargement des photos en cours dans le dossier Image...")
         count = 0
         photos_url = []
         

@@ -37,7 +37,7 @@
 
    
 
-### Un accès utiisateur (droit de lecture) provisoire à cette base de donnée est crée également.
+### Un accès utilisateur (droit de lecture) provisoire à cette base de donnée est crée également.
 
 ### Vous trouverez plus de detail dans le notebook dans lequel, j’ai fait une documentation sur l’utilisation du connecteur.
 
